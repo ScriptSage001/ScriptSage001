@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kaustab Samanta</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-- 🔭 I’m currently working on [Shortify.Net](https://github.com/ScriptSage001/Shortify.NET)
+- 🔭 I’m currently working on [CoreKernel](https://github.com/ScriptSage001/CoreKernel)
 
 - 👨‍💻 All of my projects are available at [https://github.com/ScriptSage001](https://github.com/ScriptSage001)
 
-- 📫 How to reach me **scriptsage001@gmail.com**
+- 📫 How to reach me - can visit here [Portfolio](https://kaustabsamanta.web.app) or directly at **scriptsage001@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/kaustab-samanta-b513511a1/](https://www.linkedin.com/in/kaustab-samanta-b513511a1/)
 
